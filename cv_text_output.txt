@@ -1,0 +1,68 @@
+exists: True
+size: 164920
+pages: 2
+--- PAGE 1 ---
+EUSEBIO GHERVIS H. 
+eusebio.ghervis02@gmail.com ❖ 0994-379-6054 ❖ Pandacan Manila 
+PROFESSIONAL SUMMARY  
+Dedicated and goal-oriented Information Technology (IT) student with strong problem -solving skills and a desire to 
+apply classroom knowledge in a practical work environment. Eager to contribute effectively to an organization while 
+developing essential skills for a successful IT career.  
+WORK EXPERIENCE 
+ 
+Pricewise CO.  2026 
+OJT Gilmore IT Center 
+• Assembled, configured, and tested custom personal computers based on specific client requirements, ensuring 
+proper hardware integration and system optimization.  
+• Executed the installation and network configuration of CCTV surveillance systems, including DVR/NVR setup 
+and troubleshooting, to provide secure and reliable monitoring solutions.  
+ 
+Social Security System 2025 
+OJT Pasig Pioneer 
+• Assisted SSS members at the E -center by providing hands-on technical guidance for navigating online portals, 
+troubleshooting account issues, and facilitating seamless digital transactions.  
+• Streamlined administrative workflows by systematically organizing and maintaining both physical and digital 
+records, ensuring data privacy and efficient document retrieval.  
+ 
+TESDA NCII 2024 
+CSS Kaizen Tech Institute of Manila INC.  
+• Executed basic troubleshooting for network issues to ensure seamless connectivity for users.  
+• Utilized computer remote access using server capabilities to facilitate efficient problem resolution.  
+• Assisted in computer system servicing by performing hardware setup and basic troubleshooting tasks.  
+• Participated in training programs to enhance technical skills and knowledge in IT support.  
+ 
+Joysis Techvoc INC. 2024 
+Certificate of Completion - Java Programming  
+• Developed foundational skills in Java programming through hands -on projects and structured coursework.  
+• Collaborated with peers to create game ideas that applied programming concepts learned in class.  
+• Gained practical experience in coding and debugging Java applications for various functionalities.  
+ 
+ 
+ 
+ 
+--- END PAGE ---
+--- PAGE 2 ---
+EDUCATION 
+ 
+POLYTECHNIC UNIVERSITY OF THE 
+PHILIPPINES 
+2023-Present 
+College (IT)  
+ 
+ARELLANO UNIVERSITY  2022-2023 
+Senior Highschool (ICT)   
+ 
+CARLOS P. GARCIA  2014-2019 
+Highschool (Techvoc)   
+ 
+SKILLS 
+ 
+• Skills: Basic Java; C; C++; HTML; CSS; JavaScript; PHP Programming languages; Computer System Servicing; 
+Hardware setup; Basic troubleshooting; Basic networking; Basic Video editing; Photo editing; Problem -solving; 
+Customer service  
+ 
+LANGUAGE 
+• Basic English 
+• Fluent Tagalog 
+ 
+--- END PAGE ---

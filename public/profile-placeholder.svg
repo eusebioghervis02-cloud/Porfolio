@@ -1,0 +1,9 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">Minimal portrait placeholder with initials</desc>
+  <rect width="640" height="640" fill="#F8FAFC"/>
+  <circle cx="320" cy="250" r="110" fill="#DBEAFE"/>
+  <path d="M140 586c18-117 86-182 180-182s162 65 180 182" fill="#BFDBFE"/>
+  <circle cx="320" cy="250" r="74" fill="#2563EB"/>
+  <text x="320" y="276" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="700" fill="#FFFFFF">AM</text>
+</svg>
