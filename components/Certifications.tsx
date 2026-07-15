@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { profile } from "@/data/profile";
 
 export function Certifications() {
@@ -24,9 +23,9 @@ export function Certifications() {
             );
 
             return certification.url ? (
-              <Link key={certification.name} href={certification.url} target="_blank" rel="noreferrer" className="group">
+              <a key={certification.name} href={certification.url} target="_blank" rel="noreferrer noopener" className="group">
                 {content}
-              </Link>
+              </a>
             ) : (
               <div key={certification.name}>{content}</div>
             );
