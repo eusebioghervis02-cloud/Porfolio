@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { profile } from "@/data/profile";
 
 export function Certifications() {
@@ -10,13 +11,26 @@ export function Certifications() {
         </div>
 
         <div className="mt-10 grid gap-6 sm:grid-cols-2">
-          {profile.resume.certifications.map((certification) => (
-            <article key={certification.name} className="reveal rounded-3xl border border-slate-200 bg-slate-50 p-6 shadow-sm dark:border-slate-800 dark:bg-slate-900">
-              <h3 className="text-xl font-semibold text-slate-950 dark:text-white">{certification.name}</h3>
-              <p className="mt-3 text-slate-700 dark:text-slate-300">{certification.issuer}</p>
-              <p className="mt-4 text-sm font-medium text-slate-600 dark:text-slate-400">{certification.date}</p>
-            </article>
-          ))}
+          {profile.resume.certifications.map((certification) => {
+            const content = (
+              <article className="reveal rounded-3xl border border-slate-200 bg-slate-50 p-6 shadow-sm transition hover:border-accent-500 hover:ring-1 hover:ring-accent-500 dark:border-slate-800 dark:bg-slate-900 dark:hover:border-accent-400">
+                <h3 className="text-xl font-semibold text-slate-950 dark:text-white">{certification.name}</h3>
+                <p className="mt-3 text-slate-700 dark:text-slate-300">{certification.issuer}</p>
+                <p className="mt-4 text-sm font-medium text-slate-600 dark:text-slate-400">{certification.date}</p>
+                {certification.url ? (
+                  <p className="mt-4 text-sm font-semibold text-accent-600 dark:text-accent-400">View certificate</p>
+                ) : null}
+              </article>
+            );
+
+            return certification.url ? (
+              <Link key={certification.name} href={certification.url} target="_blank" rel="noreferrer" className="group">
+                {content}
+              </Link>
+            ) : (
+              <div key={certification.name}>{content}</div>
+            );
+          })}
         </div>
       </div>
     </section>

@@ -38,6 +38,7 @@ export interface Certification {
   name: string;
   issuer: string;
   date: string;
+  url?: string;
 }
 
 export interface Profile {
@@ -202,11 +203,13 @@ export const profile: Profile = {
         name: "TESDA NCII",
         issuer: "CSS Kaizen Tech Institute of Manila INC.",
         date: "2024",
+        url: "/certificates/tesda-ncii.pdf",
       },
       {
         name: "Certificate of Completion - Java Programming",
         issuer: "Joysis Techvoc INC.",
         date: "2024",
+        url: "/certificates/java-programming.pdf",
       },
     ],
   },
