@@ -112,33 +112,13 @@ export const profile: Profile = {
   ],
   projects: [
     {
-      title: "Atlas Analytics",
-      description: "A responsive dashboard for tracking customer growth, retention, and product health metrics.",
-      technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com/example/atlas-analytics",
+      title: "TriWheel",
+      description: "TriWheel is a web-based booking and transportation management system designed to improve the accessibility, efficiency, and convenience of three-wheeled vehicle services such as tricycles, pedicabs, and future e-tricycles. The system enables passengers to book rides online while providing drivers with a platform to manage bookings and ride requests..",
+      technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Laravel",],
+      liveUrl: "https://tri-wheel.vercel.app/",
+      githubUrl: "https://github.com/example/tri-wheel",
     },
-    {
-      title: "Northstar Notes",
-      description: "A focused writing app with markdown previews, keyboard-first flows, and fast search.",
-      technologies: ["React", "TypeScript", "Local Storage"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com/example/northstar-notes",
-    },
-    {
-      title: "Launch Kit",
-      description: "A polished landing page starter with reusable sections, SEO defaults, and accessible components.",
-      technologies: ["Next.js", "Tailwind CSS", "Vercel"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com/example/launch-kit",
-    },
-    {
-      title: "Signal CRM",
-      description: "A lightweight sales workspace prototype for managing accounts, tasks, and contact history.",
-      technologies: ["React", "TypeScript", "Headless UI"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com/example/signal-crm",
-    },
+    
   ],
   resume: {
     summary:
