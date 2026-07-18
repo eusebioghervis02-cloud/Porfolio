@@ -36,7 +36,7 @@ export default function CvPage() {
           <div className="flex items-center gap-2">
             <ThemeToggle />
             <a
-              href="/cv.pdf"
+              href="/Eusebio_Ghervis_CV.pdf"
               className="inline-flex items-center gap-2 rounded-full bg-accent-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-accent-700 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:ring-offset-2 dark:focus:ring-offset-slate-950"
             >
               <Download aria-hidden="true" size={18} />
